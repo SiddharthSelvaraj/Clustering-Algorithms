@@ -24,11 +24,17 @@ Output:
 
 
 -----------DBSCAN IMPLEMENTATION--------------
+
 1.Place the datasets and the dbscan.py file in the same directory.
+
 2.Run the python file dbscan.py
+
 3.It prompts you to enter the filename with extension, the eps value and the minimum points.
+
 4.After entering the required inputs, the output is displayed.
+
 5.The jaccard coefficient and rand index values are printed
+
 6.The PCA plot along with the clusters is displayed.
 
 
